@@ -112,6 +112,6 @@ This project is open-source and available under the MIT License.
 
 🙋‍♂️ Author
 Zaid Ali
-📧 zaid@example.com
+📧 zaidali.za2635@gmail.com
 🔗 LinkedIn | Portfolio
 
